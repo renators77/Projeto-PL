@@ -1,0 +1,1 @@
+VAR A=10, B=20, C; C=A+B; ESCREVER C; VAR A=10 //OLA; ESCREVER A //Tudo Bem; //Bom trabalho; PARA I EM [1..5] FAZER 5+5 FIM PARA; 
